@@ -6,9 +6,9 @@
     </span>
     
     <ul class="right-align">
-       <li>About</li>
-       <li>Team</li>
-       <li>FAQ</li>
+       <li><a href="#about">About</a></li>
+       <li><a href="#faq">FAQ</a></li>
+       <li><a href="#team">Team</a></li>
        <li><a href="https://opensea.io/collection/solidnumbers">Mint</a></li>
     </ul>
 

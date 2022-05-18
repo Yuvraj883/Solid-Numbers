@@ -1,8 +1,8 @@
 <template>
-  <Nav/>
-  <About/>
-  <FAQ/>
-  <Team/>
+  <Nav id="nav"/>
+  <About id="about"/>
+  <FAQ id="faq"/>
+  <Team id="team"/>
 </template>
 
 <script>
