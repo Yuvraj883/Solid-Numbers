@@ -83,7 +83,7 @@ li{
     margin:1em;
 }
 .logo{
-    margin-top:1em;
+    margin-top:1.5em;
     margin-left:7%;
 }
 </style>
