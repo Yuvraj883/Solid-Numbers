@@ -42,7 +42,7 @@ export default{
 }
 .name{
     font-weight: bolder;
-    font-size:1.5em;
+    font-size:1.8em;
     margin-bottom: 0vh;
 }
 .about div{
@@ -54,7 +54,7 @@ export default{
 .number{
    
     width:40%;
-    margin-right:5%;
+   
     margin-top:5%;
     
 }
@@ -64,6 +64,7 @@ export default{
 .about img{
     border-radius:50%;
     height:10vh;
+    margin-bottom:1em;
 }
 .about{
     padding:5vh;

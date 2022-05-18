@@ -1,11 +1,13 @@
 <template>
   <Nav/>
   <About/>
+  <Team/>
 </template>
 
 <script>
 import Nav from './components/Nav.vue';
-import About from './components/About.vue'
+import About from './components/About.vue';
+import Team from './components/Team.vue';
 
 export default {
 //eslint-disable-multi-word
@@ -13,7 +15,8 @@ export default {
   name: 'App',
   components: {
     Nav,
-    About
+    About,
+    Team
   }
 }
 </script>

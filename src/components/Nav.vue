@@ -75,6 +75,7 @@ li a{
     display:flex;
     margin-left:auto;
     margin-right:5%;
+    cursor:pointer;
 
     
 }
