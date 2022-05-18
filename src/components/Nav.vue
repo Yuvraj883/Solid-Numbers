@@ -36,7 +36,7 @@ export default{
     color:black;
     border-radius: 1em;
     padding:.2em .6em;
-    margin-right:60%;
+    margin-right:72%;
     font-size:1.5em;
     margin-bottom:1em;
     margin-bottom:1em;
