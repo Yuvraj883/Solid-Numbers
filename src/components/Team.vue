@@ -31,7 +31,7 @@
         </div>
          <div>
         <img src="../assets/LoveDeep.jpeg" alt="LoveDeep"/>
-        <p class="name">Love Deep Kashyap</p>
+        <p class="name">Love D Kashyap</p>
         <p class="title">CEO</p>
         </div> -->
 
@@ -79,6 +79,7 @@ export default{
   color: white;
   margin: 0;
   display: flex;
+  padding:7vh;
 }
 .number img{
    

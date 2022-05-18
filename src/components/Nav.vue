@@ -2,7 +2,7 @@
 <div class="container">
 <div class="nav">
     <span class="logo">
-        Solid Numbers
+      <i>  Solid Numbers</i>
     </span>
     
     <ul class="right-align">
@@ -12,8 +12,9 @@
        <li><a href="https://opensea.io/collection/solidnumbers">Mint</a></li>
     </ul>
 
-    
-</div>
+</div>   
+
+
 <div class="content">
 <div class="solid">
 <img src="../assets/SOLID-NUMBERS/solid-numbers.png" alt="Solid Numbers">
@@ -24,6 +25,7 @@
 </div>
 </div>
 </div>
+
 </template>
 <script>
 export default{
@@ -91,5 +93,6 @@ li{
 .logo{
     margin-top:1.5em;
     margin-left:7%;
+    font-weight: bolder;
 }
 </style>

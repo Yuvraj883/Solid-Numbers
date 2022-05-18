@@ -1,12 +1,14 @@
 <template>
   <Nav/>
   <About/>
+  <FAQ/>
   <Team/>
 </template>
 
 <script>
 import Nav from './components/Nav.vue';
 import About from './components/About.vue';
+import FAQ from './components/FAQ.vue'
 import Team from './components/Team.vue';
 
 export default {
@@ -16,7 +18,8 @@ export default {
   components: {
     Nav,
     About,
-    Team
+    Team,
+    FAQ
   }
 }
 </script>
