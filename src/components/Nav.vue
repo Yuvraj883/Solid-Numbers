@@ -9,7 +9,7 @@
        <li>About</li>
        <li>Team</li>
        <li>FAQ</li>
-       <li>Mint</li>
+       <li><a href="https://opensea.io/collection/solidnumbers">Mint</a></li>
     </ul>
 
     
@@ -17,7 +17,7 @@
 <div class="content">
 <div class="solid">
 <img src="../assets/SOLID-NUMBERS/solid-numbers.png" alt="Solid Numbers">
-<button class="mint">Mint Now</button>
+<button class="mint"><a href="https://opensea.io/collection/solidnumbers">Mint Now</a></button>
 </div>
 <div class="number">
     <img src="../assets/SOLID-NUMBERS/1.png" alt="1">
@@ -42,7 +42,12 @@ export default{
     margin-bottom:1em;
 
 }
-
+a{
+    text-decoration: none;
+}
+li a{
+    color:white;
+}
 .content{
     display:flex;
 }
