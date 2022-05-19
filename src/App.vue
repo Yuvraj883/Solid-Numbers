@@ -25,6 +25,14 @@ export default {
 </script>
 
 <style>
+/* @import url('./assets/SOLID-NUMBERS/BaronNeue.otf');
+@import url('./assets/SOLID-NUMBERS/BaronNeueBold.otf');
+@import url('./assets/SOLID-NUMBERS/BaronNeueBoldItalic.otf');
+@import url('./assets/SOLID-NUMBERS/BaronNeueItalic.otf');
+@import url('./assets/SOLID-NUMBERS/BaronNeueBlackItalic.otf');
+@import url('./assets/SOLID-NUMBERS/Oswald-VariableFont_wght.ttf'); */
+
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

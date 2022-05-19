@@ -59,12 +59,12 @@ export default{
     
 }
 .number img{
-    height:50vh;
+    height:60vh;
 }
 .about img{
     border-radius:50%;
-    height:10vh;
-    margin-bottom:1em;
+    height:20vh;
+    margin-bottom:.5em;
 }
 .about{
     padding:5vh;

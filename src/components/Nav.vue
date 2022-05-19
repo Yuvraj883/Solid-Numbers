@@ -82,6 +82,12 @@ li a{
     
 }
 
+li:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+  font-weight: 900;
+}
 .nav{
     display:flex;
     
@@ -94,5 +100,6 @@ li{
     margin-top:1.5em;
     margin-left:7%;
     font-weight: bolder;
+    font-family: oswald;
 }
 </style>
