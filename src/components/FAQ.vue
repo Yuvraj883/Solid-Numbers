@@ -165,7 +165,7 @@ export default{
     color:white;
     margin:0;
     display:flex;
-    font-family: baron-neue;
+    font-family: oswald;
 
 }
 .nft{

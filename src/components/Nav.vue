@@ -54,22 +54,26 @@ li a{
     display:flex;
 }
 .solid img{
-   
+   justify-content: center;
     width:60%;
     display:block;
     margin-left:7%;
+    margin-top:17vh;
 }
 .number img{
    
     width:40%;
     margin-right:5%;
     margin-top:5%;
+    height: 70vh;
+    width: 30vh;
     
 }
 .container{
     background-image: url("../assets/SOLID-NUMBERS/gradient-background.jpg");
     color:white;
     margin:0;
+    height: 100vh;
 
 }
 .right-align{
@@ -87,6 +91,7 @@ li:hover{
   -ms-transform: scale(1.3);
   transform: scale(1.3);
   font-weight: 900;
+   transform: skew(-10deg);
 }
 .nav{
     display:flex;
@@ -97,9 +102,11 @@ li{
     margin:1em;
 }
 .logo{
-    margin-top:1.5em;
+    margin-top:.5em;
     margin-left:7%;
     font-weight: bolder;
-    font-family: oswald;
+    font-size:3em;
+    font-family: baron-neue;
+    color:	#A8A9AD;
 }
 </style>
